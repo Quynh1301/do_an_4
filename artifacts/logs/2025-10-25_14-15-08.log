@@ -1,0 +1,31 @@
+2025-10-25 14:15:19,408 - INFO - Mở trang chủ HangTruyen
+2025-10-25 14:15:20,131 - INFO - Click vào truyện đầu tiên: CHÀNG RỂ MẠNH NHẤT LỊCH SỬ
+2025-10-25 14:15:20,177 - INFO - Đã vào đúng trang truyện.
+2025-10-25 14:15:20,177 - INFO - Thực hiện đánh giá: Tệ
+2025-10-25 14:15:20,253 - INFO -  Đã chọn mức đánh giá: tệ
+2025-10-25 14:15:37,099 - INFO - Mở trang chủ HangTruyen
+2025-10-25 14:15:37,799 - INFO - Click vào truyện đầu tiên: CHÀNG RỂ MẠNH NHẤT LỊCH SỬ
+2025-10-25 14:15:37,843 - INFO - Đã vào đúng trang truyện.
+2025-10-25 14:15:37,843 - INFO - Thực hiện đánh giá: Hơi tệ
+2025-10-25 14:15:37,885 - INFO -  Đã chọn mức đánh giá: hơi tệ
+2025-10-25 14:15:46,185 - INFO - Mở trang chủ HangTruyen
+2025-10-25 14:15:46,861 - INFO - Click vào truyện đầu tiên: CHÀNG RỂ MẠNH NHẤT LỊCH SỬ
+2025-10-25 14:15:46,913 - INFO - Đã vào đúng trang truyện.
+2025-10-25 14:15:46,914 - INFO - Thực hiện đánh giá: Bình thường
+2025-10-25 14:15:46,955 - INFO -  Đã chọn mức đánh giá: bình thường
+2025-10-25 14:16:02,626 - ERROR - Lỗi khi đánh giá 'Bình thường': Message: 
+
+2025-10-25 14:16:02,626 - ERROR - Ảnh lỗi: artifacts\screenshots\rate_story_error_Bình thường_20251025_141602.png
+2025-10-25 14:16:08,081 - INFO - Mở trang chủ HangTruyen
+2025-10-25 14:16:08,700 - INFO - Click vào truyện đầu tiên: CHÀNG RỂ MẠNH NHẤT LỊCH SỬ
+2025-10-25 14:16:08,738 - INFO - Đã vào đúng trang truyện.
+2025-10-25 14:16:08,738 - INFO - Thực hiện đánh giá: Hay
+2025-10-25 14:16:08,770 - INFO -  Đã chọn mức đánh giá: hay
+2025-10-25 14:16:24,458 - ERROR - Lỗi khi đánh giá 'Hay': Message: 
+
+2025-10-25 14:16:24,459 - ERROR - Ảnh lỗi: artifacts\screenshots\rate_story_error_Hay_20251025_141624.png
+2025-10-25 14:16:29,821 - INFO - Mở trang chủ HangTruyen
+2025-10-25 14:16:30,503 - INFO - Click vào truyện đầu tiên: CHÀNG RỂ MẠNH NHẤT LỊCH SỬ
+2025-10-25 14:16:30,568 - INFO - Đã vào đúng trang truyện.
+2025-10-25 14:16:30,568 - INFO - Thực hiện đánh giá: Tuyệt vời
+2025-10-25 14:16:30,616 - INFO -  Đã chọn mức đánh giá: tuyệt vời

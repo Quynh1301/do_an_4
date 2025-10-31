@@ -1,0 +1,5 @@
+email,password,expectedresult
+,,hiển thị thông báo yêu cầu nhập email
+qbui14494@gmail.com,,hiển thị thông báo yêu cầu nhập mật khẩu
+qbui14494@gmail.com,bjadg,hiển thị thông báo mật khẩu không chính xác
+qbui14494@gmail.com,zxCvBNma577@,"đăng nhập thành công, chuyển đến trang chủ"

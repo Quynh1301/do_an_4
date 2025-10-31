@@ -1,0 +1,27 @@
+2025-10-25 14:21:44,290 - INFO - Mở trang chủ HangTruyen
+2025-10-25 14:21:46,014 - INFO - Nhập email và mật khẩu
+2025-10-25 14:22:01,730 - ERROR -  Lỗi: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6aafce8e5+80021]
+	GetHandleVerifier [0x0x7ff6aafce940+80112]
+	(No symbol) [0x0x7ff6aad5060f]
+	(No symbol) [0x0x7ff6aada8854]
+	(No symbol) [0x0x7ff6aada8b1c]
+	(No symbol) [0x0x7ff6aadfc927]
+	(No symbol) [0x0x7ff6aadd126f]
+	(No symbol) [0x0x7ff6aadf968a]
+	(No symbol) [0x0x7ff6aadd1003]
+	(No symbol) [0x0x7ff6aad995d1]
+	(No symbol) [0x0x7ff6aad9a3f3]
+	GetHandleVerifier [0x0x7ff6ab28dc7d+2960429]
+	GetHandleVerifier [0x0x7ff6ab287f3a+2936554]
+	GetHandleVerifier [0x0x7ff6ab2a8977+3070247]
+	GetHandleVerifier [0x0x7ff6aafe83ce+185214]
+	GetHandleVerifier [0x0x7ff6aafefe1f+216527]
+	GetHandleVerifier [0x0x7ff6aafd7b24+117460]
+	GetHandleVerifier [0x0x7ff6aafd7cdf+117903]
+	GetHandleVerifier [0x0x7ff6aafbdbb8+11112]
+	BaseThreadInitThunk [0x0x7ffb6c49e8d7+23]
+	RtlUserThreadStart [0x0x7ffb6e5cc53c+44]
+
+2025-10-25 14:22:01,736 - ERROR - Ảnh lỗi: artifacts\screenshots\rating_error_20251025_142201.png

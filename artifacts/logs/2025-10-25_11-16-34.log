@@ -1,0 +1,37 @@
+2025-10-25 11:16:38,512 - INFO - Mở trang chủ HangTruyen
+2025-10-25 11:16:38,523 - INFO - Cuộn xuống để thấy danh sách truyện
+2025-10-25 11:16:38,984 - INFO -  Đã click truyện: 
+2025-10-25 11:16:39,012 - INFO -  Đã vào đúng truyện.
+2025-10-25 11:16:39,407 - INFO - Nhấn nút 'Đọc ngay'
+2025-10-25 11:16:39,433 - INFO -  Đã vào trang đọc: Đọc Chàng Rể Mạnh Nhất Lịch Sử - Chapter 1
+2025-10-25 11:16:39,505 - INFO - Mở menu Cài đặt
+2025-10-25 11:16:41,322 - ERROR -  Lỗi: Message: element click intercepted: Element <a href="" class="dropdown-toggle" id="dropdownMode" data-bs-toggle="dropdown" aria-expanded="false">...</a> is not clickable at point (1342, 164). Other element would receive the click: <div class="list-settings">...</div>
+  (Session info: chrome=141.0.7390.123); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6fef4e8e5+80021]
+	GetHandleVerifier [0x0x7ff6fef4e940+80112]
+	(No symbol) [0x0x7ff6fecd060f]
+	(No symbol) [0x0x7ff6fed30a39]
+	(No symbol) [0x0x7ff6fed2e3be]
+	(No symbol) [0x0x7ff6fed2b2e1]
+	(No symbol) [0x0x7ff6fed2a1a0]
+	(No symbol) [0x0x7ff6fed1b7c8]
+	(No symbol) [0x0x7ff6fed5122a]
+	(No symbol) [0x0x7ff6fed1b056]
+	(No symbol) [0x0x7ff6fed51440]
+	(No symbol) [0x0x7ff6fed7968a]
+	(No symbol) [0x0x7ff6fed51003]
+	(No symbol) [0x0x7ff6fed195d1]
+	(No symbol) [0x0x7ff6fed1a3f3]
+	GetHandleVerifier [0x0x7ff6ff20dc7d+2960429]
+	GetHandleVerifier [0x0x7ff6ff207f3a+2936554]
+	GetHandleVerifier [0x0x7ff6ff228977+3070247]
+	GetHandleVerifier [0x0x7ff6fef683ce+185214]
+	GetHandleVerifier [0x0x7ff6fef6fe1f+216527]
+	GetHandleVerifier [0x0x7ff6fef57b24+117460]
+	GetHandleVerifier [0x0x7ff6fef57cdf+117903]
+	GetHandleVerifier [0x0x7ff6fef3dbb8+11112]
+	BaseThreadInitThunk [0x0x7ffb6c49e8d7+23]
+	RtlUserThreadStart [0x0x7ffb6e5cc53c+44]
+
+2025-10-25 11:16:41,323 - ERROR - Ảnh lỗi: artifacts\screenshots\read_from_home_error_20251025_111641.png
